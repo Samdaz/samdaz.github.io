@@ -1,0 +1,38 @@
+
+
+
+
+dt {
+	color: grey;
+	font-size: 14pt;
+}
+
+dd {
+	color: rgb(70,70,70);
+	font-size: 16pt;	
+	font-weight: bold;
+}
+
+dc {
+	color: black;
+	font-size: 14pt;	
+	font-weight: normal;
+}
+
+de {
+	color: black;
+	font-size: 12pt;	
+	font-weight: normal;
+}
+
+
+td{
+	vertical-align: top;
+	padding-bottom: 3%;
+}
+
+th{
+	height: 10px;
+}
+
+

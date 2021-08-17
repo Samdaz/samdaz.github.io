@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://example.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/brief-vita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/brief-vita/</guid>
+      
+        <description>Brief Vitae   04/2018- &amp;nbsp &amp;nbsp now  PhD in nanophysics  Universidad Autónoma de Madrid  Title: Effects of the electrostatic environment on semiconductor/superconductor heterostructures; Advisors: Elsa Prada and Alfredo Levy Yeyati.     12/2017- 03/2018  Research assistant  Universidad Autónoma de Madrid  Project: Visualizing, understanding and controlling Andreev Bound States down to atomic scale, funded by IFIMAC.     09/2016- 06/2017  Master&#39;s degree in Condensed matter physics  Universidad Autónoma de Madrid  Nanophysics specialization.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/conference-contributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/conference-contributions/</guid>
+      
+        <description>Note: Some of the posters and talks were presented in conferences before their corresponding work was published. Hence, their files may contain incorrect or incomplete information.
+  06/2021   CMD 29: Bound states in hybrid superconductor nanostructures  International mini-colloquium organized (online) by the European Physics Society at Manchester.   Oral contribution entitled &#34;Fluxoid antipairing effect and zero energy pinning in non-topological QD/full-shell hybrid nanowires&#34;.     06/2021   TopoSuper2021 Emergent Topological Superconductivity  International conference organized (online) by the NANOCOHYBRI COST Action 16218 at Aalto.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      
+        <description>Scientific publications   07/2021   Vortex-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires  arXiv:2107.13011 (2021)  Authors: Samuel D. Escribano, Alfredo Levy Yeyati, Ramón Aguado, Elsa Prada and Pablo San-Jose. Arxiv link, Bibtex reference.     07/2021   Tunable proximity effects and topological superconductivity in ferromagnetic hybrid nanowires  Physical review B 104, L041404 (2021)   Authors: Samuel D.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
