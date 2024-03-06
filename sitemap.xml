@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:40865/</loc>
+  </url><url>
+    <loc>http://localhost:40865/brief-vita/</loc>
+  </url><url>
+    <loc>http://localhost:40865/conference-contributions/</loc>
+  </url><url>
+    <loc>http://localhost:40865/publications/</loc>
+  </url><url>
+    <loc>http://localhost:40865/categories/</loc>
+  </url><url>
+    <loc>http://localhost:40865/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://example.org/brief-vita/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/conference-contributions/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/publications/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
 </urlset>

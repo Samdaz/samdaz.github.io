@@ -3,3 +3,80 @@
 float: left;    
  margin: 5px 15px 15px 0;
 }
+
+da {
+	color: black;
+	font-size: 12pt;
+	padding-right: 25%
+}
+
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(Alef-Regular.ttf);
+}
+
+
+dt {
+	color: rgb(100,100,100);
+}
+
+dtc {
+	color: rgb(100,100,100);
+	font-size: 12pt;
+    	margin-top: 6pt;
+    	display:inline-block;
+}
+
+dd {
+	color: rgb(0,0,0);	
+	font-weight: bold;
+}
+
+ddc {
+	color: rgb(70,70,70);
+	font-size: 12pt;	
+	font-weight: bold;
+}
+
+df {
+	color: rgb(0,0,0);	
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+a{text-decoration: none;}
+
+dc {
+	color: black;	
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+de {
+	color: black;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+td{
+	vertical-align: top;
+	padding-bottom: 3%;
+	font-size: 12pt;
+}
+
+th{
+	height: 10px;
+}
+
+table{text-align: left;}
+
+tit{
+	color: rgb(80,80,80);	
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+
