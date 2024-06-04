@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:40865/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:40865/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:40865/brief-vita/</link>
+      <link>http://localhost:1313/brief-vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:40865/brief-vita/</guid>
+      <guid>http://localhost:1313/brief-vita/</guid>
       
-        <description>Brief Vitae Since 12/2022 Postdoc fellow The Weizmann Institute of Science At Yuval Oreg&#39;s group. 10/2023 - 01/2024: Research stay at The Neils Bohr Institute with Karsten Flensberg. 12/2022 04/2018 PhD in nanophysics Universidad Autónoma de Madrid Supervised by Elsa Prada and Alftredo Levy Yeyati. 10/2023 - 01/2024: Research stay at The Weizmann Institute of Science with Yuval Oreg. 03/2018 12/2017 Research assistant IFIMAC, Universidad Autónoma de Madrid Project led by Alftredo Levy Yeyati and Hermann Suderow.</description>
+        <description>Brief Vitae Since 12/2022 Postdoc fellow The Weizmann Institute of Science At Yuval Oreg&#39;s group. 10/2023 - 01/2024: Research stay at The Neils Bohr Institute with Karsten Flensberg. 12/2022 04/2018 PhD in nanophysics Universidad Autónoma de Madrid Supervised by Elsa Prada and Alftredo Levy Yeyati. 11/2021 - 04/2022: Research stay at The Weizmann Institute of Science with Yuval Oreg. 03/2018 12/2017 Research assistant IFIMAC, Universidad Autónoma de Madrid Project led by Alftredo Levy Yeyati and Hermann Suderow.</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:40865/conference-contributions/</link>
+      <link>http://localhost:1313/conference-contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:40865/conference-contributions/</guid>
+      <guid>http://localhost:1313/conference-contributions/</guid>
       
-        <description>10/2023 Nanowire Week conference International conference held at Atlanta, USA.
+        <description>05/2024 QuantumMatter2024 International conference held at Donosti, Spain.
+Oral contribution. 10/2023 Nanowire Week conference International conference held at Atlanta, USA.
 Oral and poster contributions. 09/2023 CMD-EPS 30 International conference organized by the European Physics Society at Milan, Italy.
 Oral contribution. 07/2023 Young Multis 30
 International conference organized (online) by The Henryk Niewodniczański Institute of Nuclear Physics Polish Academy of Sciences.
-Oral contribution. 05/2023 Quamtum Matter conference 2023 International conference held in Madrid, Spain.
-Oral contribution. 05/2022 CRC183 International conference organized by CRC183 at Berlin, Germany.</description>
+Oral contribution. 05/2023 Quamtum Matter conference 2023 International conference held in Madrid, Spain.</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:40865/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:40865/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       
-        <description>Scientific publications 12/2023 Phenomenology of Majorana zero modes in full-shell hybrid nanowires Carlos Payá, Samuel D. Escribano, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada. ArXiv:2312.11613. 11/2023 Suppression of thermal smearing in a feedback-driven atomic size Josephson junction Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow.</description>
+        <description>Scientific publications 05/2024 InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada and Samuel D. Escribano. ArXiv:2405.07651. 03/2024 Phenomenology of Majorana zero modes in full-shell hybrid nanowires Carlos Payá, Samuel D. Escribano, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose and Elsa Prada. Physical Review B 109, 115428 (2024); ArXiv:2312.</description>
       
     </item>
     
