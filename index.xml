@@ -2,45 +2,281 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:38381/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:38381/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/brief-vita/</link>
+      <link>http://localhost:38381/brief-vita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/brief-vita/</guid>
+      <guid>http://localhost:38381/brief-vita/</guid>
       
-        <description>Brief Vitae Since 12/2022 Postdoc fellow The Weizmann Institute of Science At Yuval Oreg&#39;s group. 10/2023 - 01/2024: Research stay at The Neils Bohr Institute with Karsten Flensberg. 12/2022 04/2018 PhD in nanophysics Universidad Autónoma de Madrid Supervised by Elsa Prada and Alftredo Levy Yeyati. 11/2021 - 04/2022: Research stay at The Weizmann Institute of Science with Yuval Oreg. 03/2018 12/2017 Research assistant IFIMAC, Universidad Autónoma de Madrid Project led by Alftredo Levy Yeyati and Hermann Suderow.</description>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;tit&gt; Brief Vitae &lt;/tit&gt;&lt;/p&gt;
+&lt;!-- &lt;a href=&#34;files/CV-SDE.pdf&#34; download=&#34;&#34; style=&#34;color:green;&#34;&gt;&lt;img src=&#34;files/download-icon.png&#34; align=&#34;left&#34; align=&#34;top&#34; width=&#34;30&#34; id=&#34;hp&#34;/&gt;&lt;/a&gt; --&gt;
+&lt;link href=&#34;../style.css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;
+ &lt;table style=&#34;width:80%&#34;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;Since &lt;br&gt; 12/2022 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Postdoc fellow &lt;br&gt; 
+    &lt;de&gt; The Weizmann Institute of Science&lt;/de&gt; &lt;br&gt;  
+    &lt;de&gt; At &lt;df&gt; &lt;a href=&#34;https://www.weizmann.ac.il/condmat/oreg/&#34; style=&#34;color:inherit;&#34;&gt;Yuval Oreg&#39;s group&lt;/a&gt;&lt;/df&gt;.&lt;/de&gt; &lt;br&gt;
+    &lt;de&gt; &lt;dtc&gt;10/2023 - 01/2024:&lt;/dtc&gt; Research stay at The Neils Bohr Institute with &lt;df&gt;&lt;a href=&#34;https://nbi.ku.dk/english/staff/?pure=en/persons/185400&#34; style=&#34;color:inherit;&#34;&gt;Karsten Flensberg&lt;/a&gt;&lt;/df&gt;.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;12/2022 &lt;br&gt; 04/2018&lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; PhD in nanophysics &lt;br&gt; 
+    &lt;de&gt; Universidad Autónoma de Madrid&lt;/de&gt; &lt;br&gt;  
+    &lt;de&gt; Supervised by &lt;df&gt; &lt;a href=&#34;https://elsaprada.github.io/&#34; style=&#34;color:inherit;&#34;&gt;Elsa Prada&lt;/a&gt;&lt;/df&gt; and &lt;df&gt; &lt;a href=&#34;http://webs.ftmc.uam.es/a.l.yeyati/&#34; style=&#34;color:inherit;&#34;&gt;Alftredo Levy Yeyati&lt;/a&gt;&lt;/df&gt;.&lt;/de&gt; &lt;br&gt;
+    &lt;de&gt; &lt;dtc&gt;11/2021 - 04/2022:&lt;/dtc&gt; Research stay at The Weizmann Institute of Science with &lt;df&gt;&lt;a href=&#34;https://www.weizmann.ac.il/condmat/oreg/&#34; style=&#34;color:inherit;&#34;&gt;Yuval Oreg&lt;/a&gt;&lt;/df&gt;.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;03/2018 &lt;br&gt; 12/2017&lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Research assistant &lt;br&gt; 
+    &lt;de&gt; IFIMAC, Universidad Autónoma de Madrid&lt;/de&gt; &lt;br&gt;  
+    &lt;de&gt; Project led by &lt;df&gt; &lt;a href=&#34;http://webs.ftmc.uam.es/a.l.yeyati/&#34; style=&#34;color:inherit;&#34;&gt;Alftredo Levy Yeyati&lt;/a&gt;&lt;/df&gt; and &lt;df&gt; &lt;a href=&#34;http://webs.fmc.uam.es/hermann.suderow/CV.html&#34; style=&#34;color:inherit;&#34;&gt;Hermann Suderow&lt;/a&gt;&lt;/df&gt;.&lt;/de&gt;&lt;/dd&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;06/2017 &lt;br&gt; 09/2016&lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Master&#39;s degree in Condensed matter physics &lt;br&gt; 
+    &lt;de&gt; Universidad Autónoma de Madrid&lt;/de&gt; &lt;br&gt;  
+    &lt;de&gt; Specialization in nanophysics.&lt;/de&gt;&lt;/dd&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2016 &lt;br&gt; 09/2008&lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Professional grade in music &lt;br&gt; 
+    &lt;de&gt; Conservatory of Alcalá de Henares&lt;/de&gt; &lt;br&gt;  
+    &lt;de&gt; Major in piano and composition.&lt;/de&gt;&lt;/dd&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+&lt;hr&gt;
+&lt;p&gt;&lt;tit&gt; Languages &lt;/tit&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/conference-contributions/</link>
+      <link>http://localhost:38381/conference-contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/conference-contributions/</guid>
+      <guid>http://localhost:38381/conference-contributions/</guid>
       
-        <description>05/2024 QuantumMatter2024 International conference held at Donosti, Spain.
-Oral contribution. 10/2023 Nanowire Week conference International conference held at Atlanta, USA.
-Oral and poster contributions. 09/2023 CMD-EPS 30 International conference organized by the European Physics Society at Milan, Italy.
-Oral contribution. 07/2023 Young Multis 30
-International conference organized (online) by The Henryk Niewodniczański Institute of Nuclear Physics Polish Academy of Sciences.
-Oral contribution. 05/2023 Quamtum Matter conference 2023 International conference held in Madrid, Spain.</description>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;link href=&#34;../style.css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;
+ &lt;table style=&#34;width:80%&#34;&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2024 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; QuantumMatter2024 &lt;br&gt; 
+    &lt;de&gt; International conference held at Donosti, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0524.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;10/2023 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Nanowire Week conference &lt;br&gt; 
+    &lt;de&gt; International conference held at Atlanta, USA.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T1023.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; and &lt;df&gt; &lt;a href=&#34;files/P1023.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;poster&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;09/2023 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; CMD-EPS 30 &lt;br&gt; 
+    &lt;de&gt; International conference organized by the European Physics Society at Milan, Italy.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0923.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;07/2023 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Young Multis 30&lt;br&gt; 
+    &lt;de&gt; International conference organized (online) by The Henryk Niewodniczański Institute of Nuclear Physics Polish Academy of Sciences.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0723.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2023 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Quamtum Matter conference 2023 &lt;br&gt; 
+    &lt;de&gt; International conference held in Madrid, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0523.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2022 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; CRC183 &lt;br&gt; 
+    &lt;de&gt; International conference organized by CRC183 at Berlin, Germany.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0522.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;03/2022 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; March meeting 2022 &lt;br&gt; 
+    &lt;de&gt; International conference organized by the American Physics Society at Chicago, USA.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0322.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; and &lt;df&gt; &lt;a href=&#34;files/P0322.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;poster&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;06/2021 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; CMD 29: Bound states in hybrid superconductor nanostructures &lt;br&gt; 
+    &lt;de&gt; International mini-colloquium organized (online) by the European Physics Society at Manchester, UK. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0621.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;06/2021 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; TopoSuper2021 Emergent Topological Superconductivity &lt;br&gt; 
+    &lt;de&gt; International conference organized (online) by the NANOCOHYBRI COST Action 16218 at Aalto, Finland. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0621-1.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; and &lt;df&gt;&lt;a href=&#34;files/T0621-2.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;poster&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;03/2021 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; March meeting 2021 &lt;br&gt; 
+    &lt;de&gt; International conference organized (online) by the American Physics Society. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0321.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; and &lt;df&gt;&lt;a href=&#34;files/P0321.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;poster&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;01/2021 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt;  XXIII Young Researches Meeting &lt;br&gt; 
+    &lt;de&gt; Organized by Instituto Nicolás Cabrera (online) at Miraflores de la Sierra, Spain. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0121.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;09/2020 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; GEFES-CMD 2020 &lt;br&gt; 
+    &lt;de&gt; International conference organized (online) by the Condesed matter division of the Royal Spanish Physics Society together with the European Physics Society at Madrid, Spain. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T0920-1.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; and &lt;df&gt;&lt;a href=&#34;files/T0920-2.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;oral&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;12/2019 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt;  XXII Young Researches Meeting &lt;br&gt; 
+    &lt;de&gt; Organized by Instituto Nicolás Cabrera at Miraflores de la Sierra, Spain. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P1219.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;12/2019 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt;  Frontiers of Quantum Matter &lt;br&gt; 
+    &lt;de&gt; International workshop organized by the Weizmann Institute at Rehovot, Israel. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P1219.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;07/2019 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Quantum Designer Physics II &lt;br&gt; 
+    &lt;de&gt; International workshop organized by the Donostia International Phsyics Center at San Sebastián-Donosti, Spain. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0719-1.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; and &lt;df&gt;&lt;a href=&#34;files/P0719-2.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;poster&lt;/a&gt;&lt;/df&gt; contributions.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2019 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; XIV Capri Spring School on Transport in Nanostructures&lt;br&gt; 
+    &lt;de&gt; International school organized at Capri, Italy. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0519.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;12/2018 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; XXI Young Researches Meeting&lt;br&gt; 
+    &lt;de&gt; Organized by Instituto Nicolás Cabrera at Miraflores de la Sierra, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P1218.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;07/2018 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Quantum Designer Physics I&lt;br&gt; 
+    &lt;de&gt; International workshop organized by the Donostia International Phsyics Center at San Sebastián-Donosti, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0718.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;01/2018 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt;  X GEFES meeting&lt;br&gt; 
+    &lt;de&gt; International conference organized by the Condensed matter division of the Royal Spanish Physics Society at Valencia, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0118.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;12/2017 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; XX Young Researches Meeting &lt;br&gt; 
+    &lt;de&gt; Organized by Instituto Nicolás Cabrera at Miraflores de la Sierra, Spain.&lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/T1217.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Oral&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;09/2017 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; XXIV International Summer school on Quantum transport in topological materials &lt;br&gt; 
+    &lt;de&gt; International summer shool organized by Instituto Nicolás Cabrera at Miraflores de la Sierra, Spain. &lt;br&gt; 
+    &lt;df&gt; &lt;a href=&#34;files/P0917.pdf&#34; download=&#34;&#34; style=&#34;color:inherit;&#34;&gt;Poster&lt;/a&gt;&lt;/df&gt; contribution.&lt;/de&gt; &lt;/dd&gt;  &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; &lt;br&gt;
+&lt;td&gt;&lt;dt&gt; &lt;b&gt;Note:&lt;/b&gt; Some of the posters and talks were presented in conferences before their corresponding work was published. Hence, the files may contain incorrect or incomplete information. &lt;/dt&gt;&lt;/td&gt; &lt;br&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://localhost:38381/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>http://localhost:38381/publications/</guid>
       
-        <description>Scientific publications 05/2024 InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada and Samuel D. Escribano. ArXiv:2405.07651. 03/2024 Phenomenology of Majorana zero modes in full-shell hybrid nanowires Carlos Payá, Samuel D. Escribano, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose and Elsa Prada. Physical Review B 109, 115428 (2024); ArXiv:2312.</description>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;tit&gt; Scientific publications &lt;/tit&gt;&lt;/p&gt;
+&lt;link href=&#34;../style.css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;
+ &lt;table style=&#34;width:80%&#34;&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;11/2024 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Intertwined topological phases in TaAs2 nanowires with giant magnetoresistance and quantum coherent surface transport &lt;br&gt;  
+    &lt;de&gt; Anand Roy, Anna Eyal, Roni Majlin Skiff, Barun Barick, &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Olga Brontvein, Katya Rechav, Ora Bitton, Roni Ilan, Ernesto Joselevich. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://arxiv.org/abs/2411.15974&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2411.15974&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;09/2024 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Spectroscopic Visualization of Hard Quasi-1D Superconductivity Induced in Nanowires Deposited on a Quasi-2D Indium film &lt;br&gt;  
+    &lt;de&gt; Ambikesh Gupta, Pranab Kumar Nag, Shai Kiriati, &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Man Suk Song, Hadas Shtrikman, Yuval Oreg, Nurit Avraham, Haim Beidenkopf. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://arxiv.org/abs/2409.19736&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2409.19736&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;05/2024 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; InP/GaSb core-shell nanowires: a practical proposal for Majorana modes in a full-shell hybrid geometry with hole bands &lt;br&gt;  
+    &lt;de&gt; Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada and &lt;df&gt;Samuel D. Escribano&lt;/df&gt;. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://arxiv.org/abs/2405.07651&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2405.07651&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;03/2024 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Phenomenology of Majorana zero modes in full-shell hybrid nanowires &lt;br&gt;  
+    &lt;de&gt; Carlos Payá, &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose and Elsa Prada. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.115428&#34; style=&#34;color:inherit;&#34;&gt;Physical Review B &lt;b&gt;109&lt;/b&gt;, 115428 (2024);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2312.11613&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2312.11613&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;11/2023 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Suppression of thermal smearing in a feedback-driven atomic size Josephson junction &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;,  Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati and Hermann Suderow. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://arxiv.org/abs/2311.12783&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2311.12783&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;08/2022 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Oreg, Alfredo Levy Yeyati, Elsa Prada and Rubén Seoane Souto. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://www.nature.com/articles/s41535-022-00489-9&#34; style=&#34;color:inherit;&#34;&gt;Npj Quantum Materials &lt;b&gt;7&lt;/b&gt;, 81 (2022);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2203.06644&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2203.06644&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;01/2022 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Fluxoid-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Alfredo Levy Yeyati, Ramón Aguado, Elsa Prada and Pablo San-Jose. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.045418&#34; style=&#34;color:inherit;&#34;&gt;Physical Review B &lt;b&gt;105&lt;/b&gt;, 045418 (2022);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2107.13011&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2107.13011&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;07/2021 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Tunable proximity effects and topological superconductivity in ferromagnetic hybrid nanowires &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Alfredo Levy Yeyati, Yuval Oreg and Elsa Prada. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L041404&#34; style=&#34;color:inherit;&#34;&gt;Physical Review B &lt;b&gt;104&lt;/b&gt;, L041404 (2021);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2011.06566&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2011.06566&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;08/2020 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Improved effective equation for the Rashba spin-orbit coupling in semiconductor nanowires &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Alfredo Levy Yeyati and Elsa Prada. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033264&#34; style=&#34;color:inherit;&#34;&gt;Physical Review Research &lt;b&gt;2&lt;/b&gt;, 033264 (2020);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2001.04375&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:2001.04375&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;07/2019 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Effects of the electrostatic environment on superlattice Majorana nanowires &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Alfredo Levy Yeyati, Yuval Oreg and Elsa Prada. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.045301&#34; style=&#34;color:inherit;&#34;&gt;Physical Review B &lt;b&gt;100&lt;/b&gt;, 045301 (2019);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/1904.10289&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:1904.10289&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td&gt;&lt;dt&gt;08/2018 &lt;/dt&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;dd&gt; Interaction-induced zero-energy pinning and quantum dot formation in Majorana nanowires &lt;br&gt;  
+    &lt;de&gt; &lt;df&gt;Samuel D. Escribano&lt;/df&gt;, Alfredo Levy Yeyati and Elsa Prada. &lt;br&gt; 
+    &lt;dc&gt; &lt;a href=&#34;https://www.beilstein-journals.org/bjnano/articles/9/203&#34; style=&#34;color:inherit;&#34;&gt;Beilstein J. Nanotechnology &lt;b&gt;9&lt;/b&gt;, 2171-2180 (2018);&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/1712.07625&#34; style=&#34;color:inherit;&#34;&gt;ArXiv:1712.07625&lt;/a&gt;.&lt;/dc&gt;&lt;/de&gt;&lt;/dd&gt; &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+&lt;hr&gt;
+&lt;p&gt;&lt;tit&gt; Github projects &lt;/tit&gt;&lt;/p&gt;</description>
       
     </item>
     
